@@ -1,0 +1,6 @@
+def add (a,b):
+a=this.a
+b=this.b
+return a+b
+
+
